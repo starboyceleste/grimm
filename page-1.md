@@ -1,6 +1,6 @@
 # Page 1
 
-| Internal Flag Name     | Description                                                     | Toggleable (Land) | Member | Nation | Toggleable (Nation) | Ally | Outsider |
+| Internal Flag Name     | Description                                                     | Toggleable (Land) | Default Member | Default Nation | Toggleable (Nation) | Default Ally | Default Outsider |
 | ---------------------- | -------------------------------------------------------- | ----------------- | ------ | ------ | ------------------- | ---- | -------- |
 | BLOCK\_PLACE           | Place blocks.                                            | ✔️                | ✔️       |   ✔️     | ✔️                  |    ✔️  |   ❌       |
 | BLOCK\_BREAK           | Break blocks.                                            | ✔️                | ✔️       |   ✔️     | ✔️                  |   ✔️   |  ❌        |
