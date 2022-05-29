@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Welcome to Grimm IV.](README.md)
+* [Welcome to the Grimm IV Wiki!](README.md)
+* [Grimm](grimm.md)
 * [Client requirements.](client-requirements..md)
 
 ## Getting Started
