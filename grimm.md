@@ -34,4 +34,4 @@ Crafting and travel are significant aspects of Grimm's gameplay. Players can cra
 Plot details are currently undisclosed. Experience it as it happens on the server.
 {% endhint %}
 
-In the [promo reveal of Grimm IV](https://www.youtube.com/watch?v=fUyr7EzW91w), a uniformed soldier is labelled as "the first Cardinal". Laid aghast in the middle of a city street, the soldier peers to his side and presumably sees his younger self looking back at him, as shown with an identical scar right of the forehead. The next scenes are of the previous city street with the soldier no longer present.
+In the [promo reveal of Grimm IV](https://www.youtube.com/watch?v=fUyr7EzW91w), a uniformed soldier is labelled as "the first Cardinal". Laid aghast in the middle of a city street, the soldier peers to his side and presumably sees his younger self looking back at him — as shown with an identical scar right of the forehead. The next scenes are of the previous city street with the soldier no longer present.
