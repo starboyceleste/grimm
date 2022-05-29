@@ -8,6 +8,6 @@
 
 * [Choosing your class.](getting-started/choosing-your-class..md)
 
-***
+## MANAGING YOUR LAND
 
-* [Page 1](page-1.md)
+* [Advanced: Default role permissions.](managing-your-land/page-1.md)
