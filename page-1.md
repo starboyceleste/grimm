@@ -2,42 +2,42 @@
 
 Some flags may not be toggleable.
 
-| Internal Flag Name     | Description                                              | Default Member | Default Nation | Default Ally | Default Outsider |
-| ---------------------- | -------------------------------------------------------- | -------------- | -------------- | ------------ | ---------------- |
-| BLOCK\_PLACE           | Place blocks.                                            | ✔️             | ✔️             | ✔️           | ❌                |
-| BLOCK\_BREAK           | Break blocks.                                            | ✔️             | ✔️             | ✔️           | ❌                |
-| PLANT                  | Plant crops, saplings ..                                 | ✔️             | ✔️             | ✔️           | ❌                |
-| HARVEST                | Harvest crops, saplings ..                               | ✔️             | ✔️             | ✔️           | ❌                |
-| INTERACT\_GENERAL      | Interact.                                                | ✔️             | ✔️             | ✔️           | ✔️               |
-| INTERACT\_CONTAINER    | Interact with containers                                 | ✔️             | ✔️             | ✔️           | ❌                |
-| INTERACT\_DOOR         | Interact with doors.                                     | ✔️             | ✔️             | ✔️           | ✔️               |
-| INTERACT\_TRAPDOOR     | Interact with trapdoors.                                 | ✔️             | ✔️             | ✔️           | ✔️               |
-| INTERACT\_MECHANISM    | Interact with mechanisms.                                | ✔️             | ✔️             | ✔️           | ❌                |
-| INTERACT\_VILLAGER     | Interact with villagers.                                 | ✔️             | ✔️             | ❌            | ❌                |
-| BLOCK\_IGNITE          | Ignite flames.                                           | ✔️             | ✔️             | ❌            | ❌                |
-| ATTACK\_PLAYER         | Attack players.                                          | ✔️             | ✔️             | ✔️           | ✔️               |
-| ATTACK\_ANIMAL         | Attack animals.                                          | ✔️             | ✔️             | ❌            | ❌                |
-| ATTACK\_MONSTER        | Attack monsters.                                         | ✔️             | ✔️             | ✔️           | ✔️               |
-| FLY                    | Creative fly. Does not apply to users.                   | ✔️             | ✔️             | ✔️           | ✔️               |
-| ELYTRA                 | Use elytras.                                             | ✔️             | ✔️             | ✔️           | ✔️               |
-| SPAWN\_TELEPORT        | Teleport to town. Does not apply to users.               | ❌              | ❌              | ❌            | ❌                |
-| ENDER\_PEARL           | Use enderpearls.                                         | ✔️             | ✔️             | ✔️           | ✔️               |
-| LAND\_ENTER            | Enter land.                                              | ✔️             | ✔️             | ✔️           | ✔️               |
-| VEHICLE\_USE           | Use vehicles.                                            | ✔️             | ✔️             | ✔️           | ✔️               |
-| ITEM\_PICKUP           | Pick up items.                                           | ✔️             | ✔️             | ✔️           | ✔️               |
-| TRAMPLE\_FARMLAND      | Trample farmland.                                        | ✔️             | ✔️             | ❌            | ❌                |
-| LAND\_CLAIM            | Claim chunks for the land.                               | ❌              | ❌              | ❌            | ❌                |
-| LAND\_CLAIM\_BORDER    | Claim directly near the land. (Ignores minimum distance) | ❌              | ✔️             | ❌            | ❌                |
-| SPAWN\_SET             | Set land's spawn.                                        | ❌              | ❌              | ❌            | ❌                |
-| BALANCE\_WITHDRAW      | Withdraw from land's balance.                            | ❌              | ❌              | ❌            | ❌                |
-| AREA\_ASSIGN           | Create and assign sub-areas.                             | ❌              | ❌              | ❌            | ❌                |
-| WAR\_MANAGE            | Declare war and surrender.                               | ❌              | ❌              | ❌            | ❌                |
-| PLAYER\_TRUST          | Trust other players.                                     | ❌              | ❌              | ❌            | ❌                |
-| PLAYER\_SETROLE        | Promote/demote other trusted players. (Of lower rank)    | ❌              | ❌              | ❌            | ❌                |
-| PLAYER\_UNTRUST        | Untrust other players. (Of lower rank)                   | ❌              | ❌              | ❌            | ❌                |
-| PLAYER\_BAN            | Ban trusted players. (Of lower rank)                     | ❌              | ❌              | ❌            | ❌                |
-| SETTING\_EDIT\_LAND    | Edit natural land settings. (Mob spawns ..)              | ❌              | ❌              | ❌            | ❌                |
-| SETTING\_EDIT\_ROLE    | Edit role settings. (Of lower rank)                      | ❌              | ❌              | ❌            | ❌                |
-| SETTING\_EDIT\_TAXES   | Edit taxes.                                              | ❌              | ❌              | ❌            | ❌                |
-| SETTING\_EDIT\_VARIOUS | Edit land name, title, and miscellaneous lag settings.   | ❌              | ❌              | ❌            | ❌                |
+| Internal Flag Name     | Default Member | Default Nation | Default Ally | Default Outsider |
+| ---------------------- | -------------- | -------------- | ------------ | ---------------- |
+| BLOCK\_PLACE           | ✔️             | ✔️             | ✔️           | ❌                |
+| BLOCK\_BREAK           | ✔️             | ✔️             | ✔️           | ❌                |
+| PLANT                  | ✔️             | ✔️             | ✔️           | ❌                |
+| HARVEST                | ✔️             | ✔️             | ✔️           | ❌                |
+| INTERACT\_GENERAL      | ✔️             | ✔️             | ✔️           | ✔️               |
+| INTERACT\_CONTAINER    | ✔️             | ✔️             | ✔️           | ❌                |
+| INTERACT\_DOOR         | ✔️             | ✔️             | ✔️           | ✔️               |
+| INTERACT\_TRAPDOOR     | ✔️             | ✔️             | ✔️           | ✔️               |
+| INTERACT\_MECHANISM    | ✔️             | ✔️             | ✔️           | ❌                |
+| INTERACT\_VILLAGER     | ✔️             | ✔️             | ❌            | ❌                |
+| BLOCK\_IGNITE          | ✔️             | ✔️             | ❌            | ❌                |
+| ATTACK\_PLAYER         | ✔️             | ✔️             | ✔️           | ✔️               |
+| ATTACK\_ANIMAL         | ✔️             | ✔️             | ❌            | ❌                |
+| ATTACK\_MONSTER        | ✔️             | ✔️             | ✔️           | ✔️               |
+| FLY                    | ✔️             | ✔️             | ✔️           | ✔️               |
+| ELYTRA                 | ✔️             | ✔️             | ✔️           | ✔️               |
+| SPAWN\_TELEPORT        | ❌              | ❌              | ❌            | ❌                |
+| ENDER\_PEARL           | ✔️             | ✔️             | ✔️           | ✔️               |
+| LAND\_ENTER            | ✔️             | ✔️             | ✔️           | ✔️               |
+| VEHICLE\_USE           | ✔️             | ✔️             | ✔️           | ✔️               |
+| ITEM\_PICKUP           | ✔️             | ✔️             | ✔️           | ✔️               |
+| TRAMPLE\_FARMLAND      | ✔️             | ✔️             | ❌            | ❌                |
+| LAND\_CLAIM            | ❌              | ❌              | ❌            | ❌                |
+| LAND\_CLAIM\_BORDER    | ❌              | ✔️             | ❌            | ❌                |
+| SPAWN\_SET             | ❌              | ❌              | ❌            | ❌                |
+| BALANCE\_WITHDRAW      | ❌              | ❌              | ❌            | ❌                |
+| AREA\_ASSIGN           | ❌              | ❌              | ❌            | ❌                |
+| WAR\_MANAGE            | ❌              | ❌              | ❌            | ❌                |
+| PLAYER\_TRUST          | ❌              | ❌              | ❌            | ❌                |
+| PLAYER\_SETROLE        | ❌              | ❌              | ❌            | ❌                |
+| PLAYER\_UNTRUST        | ❌              | ❌              | ❌            | ❌                |
+| PLAYER\_BAN            | ❌              | ❌              | ❌            | ❌                |
+| SETTING\_EDIT\_LAND    | ❌              | ❌              | ❌            | ❌                |
+| SETTING\_EDIT\_ROLE    | ❌              | ❌              | ❌            | ❌                |
+| SETTING\_EDIT\_TAXES   | ❌              | ❌              | ❌            | ❌                |
+| SETTING\_EDIT\_VARIOUS | ❌              | ❌              | ❌            | ❌                |
 
