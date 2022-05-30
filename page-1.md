@@ -16,7 +16,7 @@
 | ATTACK\_PLAYER         | Attack players.                                          | ❌                 | ✔️             | ✔️             | ❌                   | ✔️           | ✔️               |
 | ATTACK\_ANIMAL         | Attack animals.                                          | ✔️                | ✔️             | ✔️             | ✔️                  | ❌            | ❌                |
 | ATTACK\_MONSTER        | Attack monsters.                                         | ❌                 | ✔️             | ✔️             | ❌                   | ✔️           | ✔️               |
-| FLY                    | Creative fly. Does not apply to users.                   | ❌                 | ✔️             | ✔️             | ✔️                  | ✔️           | ✔️               |
+| FLY                    | Creative fly. Does not apply to users.                   | ❌                 | ✔️             | ✔️             | ❌                  | ✔️           | ✔️               |
 | ELYTRA                 | Use elytras.                                             | ❌                 | ✔️             | ✔️             | ❌                   | ✔️           | ✔️               |
 | SPAWN\_TELEPORT        | Teleport to town. Does not apply to users.               | ❌                 | ❌              | ❌              | ❌                   | ❌            | ❌                |
 | ENDER\_PEARL           | Use enderpearls.                                         | ❌                 | ✔️             | ✔️             | ❌                   | ✔️           | ✔️               |
@@ -25,7 +25,7 @@
 | ITEM\_PICKUP           | Pick up items.                                           | ❌                 | ✔️             | ✔️             | ❌                   | ✔️           | ✔️               |
 | TRAMPLE\_FARMLAND      | Trample farmland.                                        | ✔️                | ✔️             | ✔️             | ✔️                  | ❌            | ❌                |
 | LAND\_CLAIM            | Claim chunks for the land.                               | ✔️                | ❌              | ❌              | ❌                   | ❌            | ❌                |
-| LAND\_CLAIM\_BORDER    | Claim directly near the land. (Ignores minimum distance) | ✔️                | ❌              | ✔️             | ✔️                  | ❌            | ❌                |
+| LAND\_CLAIM\_BORDER    | Claim directly near the land. (Ignores minimum distance) | ✔️                | ❌              | ✔️             | ❌                  | ❌            | ❌                |
 | SPAWN\_SET             | Set land's spawn.                                        | ✔️                | ❌              | ❌              | ❌                   | ❌            | ❌                |
 | BALANCE\_WITHDRAW      | Withdraw from land's balance.                            | ✔️                | ❌              | ❌              | ❌                   | ❌            | ❌                |
 | AREA\_ASSIGN           | Create and assign sub-areas.                             | ✔️                | ❌              | ❌              | ❌                   | ❌            | ❌                |
