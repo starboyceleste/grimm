@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Welcome to the Grimm IV Wiki!](README.md)
-* [Grimm](grimm.md)
+* [Welcome to the Grimm IV Wiki](README.md)
 * [Client requirements.](client-requirements..md)
 
 ## Getting Started
@@ -10,4 +9,4 @@
 
 ## MANAGING YOUR LAND
 
-* [Advanced: Default role permissions.](managing-your-land/page-1.md)
+* [Advanced: Default role permissions.](page-1.md)
