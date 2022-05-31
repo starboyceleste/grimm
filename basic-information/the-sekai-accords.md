@@ -1,8 +1,4 @@
----
-description: The Sekai ccods
----
-
-# Sekai Accords
+# The Sekai Accords
 
 This is a document of all rules placed in Grimm IV.
 
@@ -90,4 +86,8 @@ Establish an out of character communication to ensure both parties are aware rol
 ### Article VIII: Wilderness
 
 Containers and buildings not in or not immediately outside claimed territory are not protected by roleplaying rules or protection rules. This is to help clear obscure builds and encourage players to establish territories.
+
+## Chapter 3 - Crimes against Elyssia
+
+### Article IIV: E
 
