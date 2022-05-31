@@ -1,4 +1,4 @@
-# The Sekai Accords
+# Rules of the server, "The Sekai Accords"
 
 This is a document of all rules placed in Grimm IV.
 
@@ -8,7 +8,7 @@ Some rules may be enforced by in-world parties. Rather than by administrators, t
 
 Players found intentionally assisting in, knowingly participating in, or knowingly benefitting from other players breaking any of the rules listed on this page may be subject to appropriate consequences as well.
 
-## Chapter 1 - Crimes Against Grimm.
+## Chapter 1 - Crimes against Grimm.
 
 ### Article I: Chat Abuse
 
@@ -85,9 +85,27 @@ Establish an out of character communication to ensure both parties are aware rol
 
 ### Article VIII: Wilderness
 
-Containers and buildings not in or not immediately outside claimed territory are not protected by roleplaying rules or protection rules. This is to help clear obscure builds and encourage players to establish territories.
+Claiming ownership of the wilderness without a land chunk claim is prohibited.
+
+Containers and buildings not in or not immediately outside claimed territory are not protected and are not insured by the server. This is to help clear obscure builds and encourage players to establish territories.
 
 ## Chapter 3 - Crimes against Elyssia
 
-### Article IIV: E
+### Article IIX: Land Preservation
 
+Excessive destruction of the the terrain and world is prohibited. The land should be valued and preserved. In select cases, particularly in roleplay, large rollbacks can be made to previous states.&#x20;
+
+**Currently, the following select resources are available through other provided means by the server:**
+
+* Sand can be created by smelting tuff.
+* Tree farms found at Soul Forges can be purchased to generate wood.
+* More ...
+
+### Article IX: Abuse of Server Resources
+
+Machines, contraptions, and other creations that cause an excessive amount of lag are prohibited.
+
+**The following measures are placed to reduce server load:**
+
+* Farm limiter, entities are systematically deleted based on density of mobs. If your mobs are being deleted, increase the area they're contained in. Read more here.
+* Redstone, piston, and other chunk block limits.

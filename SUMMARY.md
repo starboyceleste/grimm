@@ -1,16 +1,19 @@
 # Table of contents
 
 * [Welcome to the Grimm IV Wiki](README.md)
+* [Rules of the server, "The Sekai Accords"](rules.md)
 * [Client requirements.](client-requirements..md)
 
 ## Getting Started
 
 * [Choosing your class.](getting-started/choosing-your-class..md)
 
-## MANAGING YOUR LAND
+## Managing Your Land
 
 * [Advanced: Default role permissions.](page-1.md)
 
-## BASIC INFORMATION
+## Basic Information
 
-* [The Sekai Accords](basic-information/the-sekai-accords.md)
+## Server Limitations
+
+* [Entity limits.](server-limitations/entity-limits..md)
