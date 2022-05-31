@@ -1,4 +1,4 @@
-# Rules of the server, "The Sekai Accords"
+# Rules, "The Sekai Accords"
 
 This is a document of all rules placed in Grimm IV.
 
@@ -89,11 +89,22 @@ Claiming ownership of the wilderness without a land chunk claim is prohibited.
 
 Containers and buildings not in or not immediately outside claimed territory are not protected and are not insured by the server. This is to help clear obscure builds and encourage players to establish territories.
 
+### Article IX: Public Misinformation and Noninformation
+
+Exploitation or personal gain from deliberate misinformation or non-mutual noninformation is prohibited.
+
+**Noninformation Grace Period:** Period of noninformation is voided after 24 hours of any piece of official content being released. Beyond this period, noninformation of Grimm material is no longer insured.
+
 ## Chapter 3 - Crimes against Elyssia
 
-### Article IX: Land Preservation
+### Article X: Land Preservation
 
 Excessive destruction of the the terrain and world is prohibited. The land should be valued and preserved. In select cases, particularly in roleplay, large rollbacks can be made to previous states.&#x20;
+
+**Large acts of destruction can be validated and minted (historically preserved or otherwise at the choice of agreeing parties) under the following conditions:**&#x20;
+
+* The destruction is a targeted, contained, and non-excessive attack.
+* The destruction and/or rebuilding of a site adds value to roleplay. (The bombing and restoration of ..)
 
 **Currently, the following select resources are available through other provided means by the server:**
 
@@ -101,7 +112,7 @@ Excessive destruction of the the terrain and world is prohibited. The land shoul
 * Tree farms found at Soul Forges can be purchased to generate wood.
 * More ...
 
-### Article X: Abuse of Server Resources
+### Article XI: Abuse of Server Resources
 
 Machines, contraptions, and other creations that cause an excessive amount of lag are prohibited.
 
@@ -109,3 +120,14 @@ Machines, contraptions, and other creations that cause an excessive amount of la
 
 * Farm limiter, entities are systematically deleted based on density of mobs. If your mobs are being deleted, increase the area they're contained in. Read more here.
 * Redstone, piston, and other chunk block limits.
+
+## Consequences dealt by the server
+
+Players found breaking these rules can expect a suspension of chat privileges or access to the Grimm server and Discord. You may find that lesser rules may be open to a jury's verdict in an in-world court of law.
+
+Our rules are here to maintain a welcoming and safe environment for all players and facilitate fair roleplay standards.
+
+## Fugitives and failure to appear
+
+In the case that a player fails to appear to court, a bounty hunter will be employed to detain the fugitive.
+
