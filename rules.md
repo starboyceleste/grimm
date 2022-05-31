@@ -103,8 +103,8 @@ Excessive destruction of the the terrain and world is prohibited. The land shoul
 
 **Large acts of destruction can be validated and minted (historically preserved or otherwise at the choice of agreeing parties) under the following conditions:**&#x20;
 
-* The destruction is a targeted and contained attack.
-* The destruction and/or rebuilding of a site adds reasonable value to a location. (The bombing and restoration of ..)
+* The destruction is a targeted, contained, and non-excessive attack.
+* The destruction and/or rebuilding of a site adds value to roleplay. (The bombing and restoration of ..)
 
 **Currently, the following select resources are available through other provided means by the server:**
 
