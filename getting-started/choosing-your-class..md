@@ -4,7 +4,7 @@ description: Classes for Grimm IV are starting archetypes available to the playe
 
 # Choosing your class.
 
-Choosing a class determines your starting stats, equipment, and ability to craft class-specific items. Your stats and equipment can be improved and upgraded later on as you progress throughout the game.
+Choosing a class determines which class-specific items you'll be able to unlock later on. You can freely change your class as you play.
 
 To select your class, interact with the menu at [Lueheon](http://grimm-atlas.lol/?worldname=elyssia\&mapname=atlas\&zoom=3\&x=1613\&y=64\&z=-4376) when you spawn initially.
 
@@ -15,8 +15,6 @@ You can change your class later, but player stats like level, attributes, and sk
 ## The Revenant
 
 > "You're a revenant, a suffered soul. The revenants were sought after to look to the stars and chart the destinies of great empires. But damn it all — what you saw were visions of annihilation. In it, you fell into an infinite void. It hurt you. And in the end, your soul returned to a world that no longer remembered you, consequently becoming "stranded" in the world of the living."
-
-
 
 ## The Vagabond
 

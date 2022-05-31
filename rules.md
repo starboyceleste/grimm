@@ -91,7 +91,7 @@ Containers and buildings not in or not immediately outside claimed territory are
 
 ## Chapter 3 - Crimes against Elyssia
 
-### Article IIX: Land Preservation
+### Article IX: Land Preservation
 
 Excessive destruction of the the terrain and world is prohibited. The land should be valued and preserved. In select cases, particularly in roleplay, large rollbacks can be made to previous states.&#x20;
 
@@ -101,7 +101,7 @@ Excessive destruction of the the terrain and world is prohibited. The land shoul
 * Tree farms found at Soul Forges can be purchased to generate wood.
 * More ...
 
-### Article IX: Abuse of Server Resources
+### Article X: Abuse of Server Resources
 
 Machines, contraptions, and other creations that cause an excessive amount of lag are prohibited.
 
