@@ -89,7 +89,7 @@ Claiming ownership of the wilderness without a land chunk claim is prohibited.
 
 Containers and buildings not in or not immediately outside claimed territory are not protected and are not insured by the server. This is to help clear obscure builds and encourage players to establish territories.
 
-### Article IV: Public Misinformation and Noninformation
+### Article IX: Public Misinformation and Noninformation
 
 Exploitation or personal gain from deliberate misinformation or non-mutual noninformation is prohibited.
 
@@ -97,7 +97,7 @@ Exploitation or personal gain from deliberate misinformation or non-mutual nonin
 
 ## Chapter 3 - Crimes against Elyssia
 
-### Article IX: Land Preservation
+### Article X: Land Preservation
 
 Excessive destruction of the the terrain and world is prohibited. The land should be valued and preserved. In select cases, particularly in roleplay, large rollbacks can be made to previous states.&#x20;
 
@@ -107,7 +107,7 @@ Excessive destruction of the the terrain and world is prohibited. The land shoul
 * Tree farms found at Soul Forges can be purchased to generate wood.
 * More ...
 
-### Article X: Abuse of Server Resources
+### Article XI: Abuse of Server Resources
 
 Machines, contraptions, and other creations that cause an excessive amount of lag are prohibited.
 
