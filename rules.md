@@ -101,6 +101,11 @@ Exploitation or personal gain from deliberate misinformation or non-mutual nonin
 
 Excessive destruction of the the terrain and world is prohibited. The land should be valued and preserved. In select cases, particularly in roleplay, large rollbacks can be made to previous states.&#x20;
 
+**Large acts of destruction can be validated and minted (historically preserved or otherwise at the choice of agreeing parties) under the following conditions:**&#x20;
+
+* The destruction is a targeted and contained attack.
+* The destruction and/or rebuilding of a site adds reasonable value to a location. (The bombing and restoration of ..)
+
 **Currently, the following select resources are available through other provided means by the server:**
 
 * Sand can be created by smelting tuff.
