@@ -1,4 +1,4 @@
-# Rules of the server, "The Sekai Accords"
+# Rules, "The Sekai Accords"
 
 This is a document of all rules placed in Grimm IV.
 
@@ -115,3 +115,10 @@ Machines, contraptions, and other creations that cause an excessive amount of la
 
 * Farm limiter, entities are systematically deleted based on density of mobs. If your mobs are being deleted, increase the area they're contained in. Read more here.
 * Redstone, piston, and other chunk block limits.
+
+## Consequences dealt by the server
+
+Players found breaking these rules can expect a suspension of chat privileges or access to the Grimm server and Discord. You may find that lesser rules may be open to a jury's verdict in an in-world court of law.
+
+Our rules are here to maintain a welcoming and safe environment for all players and facilitate fair roleplay standards.
+

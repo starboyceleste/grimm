@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to the Grimm IV Wiki](README.md)
-* [Rules of the server, "The Sekai Accords"](rules.md)
+* [Rules, "The Sekai Accords"](rules.md)
 * [Client requirements.](client-requirements..md)
 
 ## Getting Started
