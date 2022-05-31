@@ -89,6 +89,12 @@ Claiming ownership of the wilderness without a land chunk claim is prohibited.
 
 Containers and buildings not in or not immediately outside claimed territory are not protected and are not insured by the server. This is to help clear obscure builds and encourage players to establish territories.
 
+### Article IV: Public Misinformation and Noninformation
+
+Exploitation or personal gain from deliberate misinformation or non-mutual noninformation is prohibited.
+
+**Noninformation Grace Period:** Period of noninformation is voided after 24 hours of any piece of content being released.
+
 ## Chapter 3 - Crimes against Elyssia
 
 ### Article IX: Land Preservation

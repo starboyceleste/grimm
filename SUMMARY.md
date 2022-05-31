@@ -10,9 +10,7 @@
 
 ## Managing Your Land
 
-* [Advanced: Default role permissions.](page-1.md)
-
-## Basic Information
+* [Advanced: Default role permissions.](managing-your-land/advanced-default-role-permissions..md)
 
 ## Server Limitations
 
