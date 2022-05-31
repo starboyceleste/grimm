@@ -9,4 +9,8 @@
 
 ## MANAGING YOUR LAND
 
-* [Advanced: Default role permissions.](page-1.md)
+* [Advanced: Default role permissions.](managing-your-land/default-role-permissions.md)
+
+## BASIC INFORMATION
+
+* [Sekai Accords](basic-information/sekai-accords.md)
