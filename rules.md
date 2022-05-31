@@ -93,7 +93,7 @@ Containers and buildings not in or not immediately outside claimed territory are
 
 Exploitation or personal gain from deliberate misinformation or non-mutual noninformation is prohibited.
 
-**Noninformation Grace Period:** Period of noninformation is voided after 24 hours of any piece of content being released.
+**Noninformation Grace Period:** Period of noninformation is voided after 24 hours of any piece of official content being released. Beyond this period, noninformation of Grimm material is no longer insured.
 
 ## Chapter 3 - Crimes against Elyssia
 
