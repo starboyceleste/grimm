@@ -16,4 +16,4 @@
 
 ## Server Limitations
 
-* [Entity limiter.](server-limitations/entity-limiter..md)
+* [Entity limiter.](server-limitations/entity-limits..md)
