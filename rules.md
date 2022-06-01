@@ -127,7 +127,3 @@ Players found breaking these rules can expect a suspension of chat privileges or
 
 Our rules are here to maintain a welcoming and safe environment for all players and facilitate fair roleplay standards.
 
-## Fugitives and failure to appear
-
-In the case that a player fails to appear to court, a bounty hunter will be employed to detain the fugitive.
-
