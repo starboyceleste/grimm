@@ -1,2 +1,0 @@
-# Advanced: Default role permissions.
-
