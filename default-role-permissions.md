@@ -1,6 +1,6 @@
 # Advanced: Default role permissions.
 
-Some flags may not be toggleable.
+Some flags may not be toggleable
 
 | Internal Flag Name     | Default Member | Default Nation | Default Ally | Default Outsider |
 | ---------------------- | -------------- | -------------- | ------------ | ---------------- |
