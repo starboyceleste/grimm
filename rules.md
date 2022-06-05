@@ -1,3 +1,7 @@
+---
+description: '"The Sekai Accords"'
+---
+
 # Rules, "The Sekai Accords"
 
 This is a document of all rules placed in Grimm IV.
