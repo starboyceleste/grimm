@@ -1,23 +1,25 @@
 # Table of contents
 
 * [Welcome to the Grimm IV Wiki](README.md)
-* [Client requirements.](client-requirements..md)
-* [Rules, "The Sekai Accords"](rules.md)
-* [Chat](chat.md)
 
-## Group 1
+## Before Joining
 
-* [How to join, whitelist and discord verification.](group-1/how-to-join-whitelist-and-discord-verification..md)
-* [Untitled](group-1/untitled.md)
-
-***
-
-* [World Map, "The Grimm Atlas"](world-map-the-grimm-atlas.md)
+* [Client requirements.](before-joining/client-requirements..md)
+* [How to get whitelisted.](before-joining/how-to-get-whitelisted..md)
 
 ## Getting Started
 
 * [Choosing your class.](getting-started/choosing-your-class..md)
-* [Economy, "Dove"](getting-started/dove.md)
+* [Claiming your land.](getting-started/claiming-your-land..md)
+* [Accessing your Index.](getting-started/accessing-your-index..md)
+* [Discord verification.](getting-started/discord-verification..md)
+
+## Basic Information
+
+* [Chat Channels](basic-information/chat-channels.md)
+* [Rules, "The Sekai Accords"](basic-information/rules.md)
+* [World Map, "The Grimm Atlas"](basic-information/world-map-the-grimm-atlas.md)
+* [Economy, "Dove"](basic-information/dove.md)
 
 ## Server Limitations
 
