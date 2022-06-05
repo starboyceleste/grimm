@@ -20,4 +20,4 @@
 
 ***
 
-* [Economy, "Dove"](economy-dove.md)
+* [Economy, "Dove"](dove.md)
