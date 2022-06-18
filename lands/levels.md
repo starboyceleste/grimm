@@ -9,3 +9,5 @@
 | City       | 12               | 512             | 2400             | 2                        | -15%        |
 | Province   | 16               | 768             | 4000             | 4                        | -20%        |
 | Land       | 20               | 1280            | 4000             | 8                        | -40%        |
+
+Required Members: Does not include the owner of the land.
