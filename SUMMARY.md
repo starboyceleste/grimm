@@ -14,6 +14,10 @@
 * [Accessing your Index.](getting-started/accessing-your-index..md)
 * [Discord verification.](getting-started/discord-verification..md)
 
+## Lands
+
+* [Levels](lands/levels.md)
+
 ## Basic Information
 
 * [Chat Channels](basic-information/chat-channels.md)
