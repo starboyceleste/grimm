@@ -21,6 +21,7 @@
 ## Basic Information
 
 * [Chat Channels](basic-information/chat-channels.md)
+* [Custom Crafting Recipes](basic-information/custom-crafting-recipes.md)
 * [Rules, "The Sekai Accords"](basic-information/rules.md)
 * [World Map, "The Grimm Atlas"](basic-information/world-map-the-grimm-atlas.md)
 * [Economy, "Dove"](basic-information/dove.md)
@@ -32,5 +33,5 @@
 ## Brewing
 
 * [Brightcrow](brewing/brightcrow.md)
-* [Mt. Moon](brewing/mt.-moon.md)
 * [Dawning Brew](brewing/dawning-brew.md)
+* [Mt. Moon](brewing/mt.-moon.md)
