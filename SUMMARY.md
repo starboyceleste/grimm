@@ -22,7 +22,7 @@
 
 * [Chat Channels](basic-information/chat-channels.md)
 * [Custom Crafting Recipes](basic-information/custom-crafting-recipes.md)
-* [The Sekai Accords](basic-information/rules/README.md)
+* [The Sekai Accords](basic-information/rules.md)
   * [Chapter 1 - Crimes against Grimm](basic-information/rules/chapter-1-crimes-against-grimm.md)
   * [Chapter 2 - Crimes against Humanity](basic-information/rules/chapter-2-crimes-against-humanity.md)
   * [Chapter 3 - Crimes against Elyssia](basic-information/rules/chapter-3-crimes-against-elyssia.md)

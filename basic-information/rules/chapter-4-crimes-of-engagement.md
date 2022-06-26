@@ -1,8 +1,15 @@
 # Chapter 4 - Crimes of Engagement
 
+### Article XII: Denouncement in Advance
 
+The following actions must be taken before any conflict can be initiated by either side:
 
-### Article XII: Casus Belli and Types of War
+* The defending land should be declared an enemy in the `/lands relations` menu.
+* A public denouncement of the defending land should be made in the `#events` chat channel.
+
+### Article XIII: Casus Belli and Types of War
+
+To declare war,
 
 #### Formal War:
 
@@ -35,7 +42,5 @@ Defender's right to&#x20;
 #### Ideological War:
 
 #### Warmonger:
-
-### Article XIII: Denouncement in Advance
 
 ##
