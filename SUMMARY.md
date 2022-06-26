@@ -22,7 +22,12 @@
 
 * [Chat Channels](basic-information/chat-channels.md)
 * [Custom Crafting Recipes](basic-information/custom-crafting-recipes.md)
-* [Rules, "The Sekai Accords"](basic-information/rules.md)
+* [The Sekai Accords](basic-information/rules/README.md)
+  * [Chapter 1 - Crimes against Grimm](basic-information/rules/chapter-1-crimes-against-grimm.md)
+  * [Chapter 2 - Crimes against Humanity](basic-information/rules/chapter-2-crimes-against-humanity.md)
+  * [Chapter 3 - Crimes against Elyssia](basic-information/rules/chapter-3-crimes-against-elyssia.md)
+  * [Chapter 4 - Crimes of Engagement](basic-information/rules/chapter-4-crimes-of-engagement.md)
+  * [Chapter 5 - Crimes of Lesser Engagement](basic-information/rules/chapter-5-crimes-of-lesser-engagement.md)
 * [World Map, "The Grimm Atlas"](basic-information/world-map-the-grimm-atlas.md)
 * [Economy, "Dove"](basic-information/dove.md)
 
