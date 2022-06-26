@@ -5,7 +5,7 @@
 The following actions must be taken before any conflict can be initiated by either side:
 
 * The defending land should be declared an enemy in the `/lands relations` menu.
-* A public denouncement of the defending land should be made in the `#events` chat channel.
+* A public denouncement of the defending land should be made in the `#events` chat channel, including a case for war and an explicit mention of the defending land's leader.
 
 ### Article XIII: Casus Belli and Types of War
 
