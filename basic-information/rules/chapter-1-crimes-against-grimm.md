@@ -43,7 +43,7 @@ Modifications that change only the look and feel of the game without modifying g
 
 ### **C**osmetic HUD Modifications
 
-Modifications that alter the look and feel of the in-game head-up display (HUD), without adding extra information which would normally be unavailable to the player. For example, HUDs adding armor and status effects, which are available to the player in their inventory screen, are permitted, while mini-maps, other player health/armor indicators, player distance/range, etc. are not.
+Modifications that alter the look and feel of the in-game head-up display (HUD), without adding extra information which would normally be unavailable to the player. For example, HUDs adding armor and status effects, which are available to the player in their inventory screen, are permitted, while player health/armor indicators, player distance/range, etc. are not.
 
 ### Brightness & Gamma Adjustment Modifications
 
