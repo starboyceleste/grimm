@@ -15,25 +15,25 @@ This document should be read carefully and understood by all players looking to 
 
 ### Article XII: Anatomy of War
 
-\[1] Denouncement
+#### \[1] Denouncement
 
 Before initiating any combat, measures to publicly denounce the target state should be made.
 
 > At this point, the only valid combat is to deny intruders in one's own land.&#x20;
 
-\[2] Declaration of War
+#### \[2] Declaration of War
 
 To declare war, players can type the command, `/war declare <land>`. This declaration should be documented in the `#events` text channel with an appropriate [casus belli](chapter-4-crimes-of-engagement.md#article-xiii-casus-belli-and-types-of-war), tribute, and any additional roleplay.
 
 * Tribute: The defender land will need to pay this value in order to surrender. This value is set in a declaration by the attacker. The attacker must accept all surrenders. Accurate as of 6/30: the maximum amount of this value can only be 20% of the defending land's balance.
 
-\[3] Preparation Period
+#### \[3] Preparation Period
 
 See: [No Man's Land](chapter-4-crimes-of-engagement.md#article-xiv-no-mans-land).
 
 After a declaration of war, the next 12 hours are a preparation period. During this time, combat is only permitted in the wilderness.
 
-\[4] War
+#### \[4] War
 
 War is won in two ways: domination and surrender.
 
@@ -49,7 +49,7 @@ In the `/war` menu, players can view the crafting recipe to make a capture flag.
 
 If no team has reached the total amount needed to win, after 48 hours, the war will end in favor of the team with the most kills.
 
-\[5] War Shield
+#### \[5] War Shield
 
 When a war shield is active, the affected land cannot be a target of war. A war shield is applied by default for 3 days when a land is created.
 
