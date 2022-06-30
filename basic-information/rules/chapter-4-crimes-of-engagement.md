@@ -49,7 +49,15 @@ In the `/war` menu, players can view the crafting recipe to make a capture flag.
 
 If no team has reached the total amount needed to win, after 48 hours, the war will end in favor of the team with the most kills.
 
-### Article XII: Denouncement
+\[5] War Shield
+
+When a war shield is active, the affected land cannot be a target of war. A war shield is applied by default for 3 days when a land is created.
+
+When a land surrenders, this land receives a 1 day war shield.
+
+When a land's war ends, both lands receive a 12 hour war shield.
+
+### Article XIII: Denouncement
 
 The following actions to publicly denounce a state must be taken before any conflict can be initiated by either side:
 
@@ -58,7 +66,7 @@ The following actions to publicly denounce a state must be taken before any conf
 
 At this point, the only valid combat is to deny intruders in one's own land.&#x20;
 
-### Article XIII: Casus Belli and Types of War
+### Article XIV: Casus Belli and Types of War
 
 #### Formal War:
 
@@ -190,11 +198,11 @@ The defender retains a temporary inalienable right to retain their ways of life 
 {% endtab %}
 {% endtabs %}
 
-### Article XIV: No Man's Land
+### Article XV: No Man's Land
 
 The killing-on-sight of state enemies is permitted in the wilderness during war preparation periods.
 
-### Article XV: Executive Authority
+### Article XVI: Executive Authority
 
 The following sanctions can be lawful imposed over a population under authority. Note: authority of possession only extends to the inventory of a person or any outwardly visible items (itemframes). (This may be extended to containers in wars of retribution.)
 
@@ -203,6 +211,8 @@ The following sanctions can be lawful imposed over a population under authority.
 * Prohibit the entry into restricted areas.
 * Prohibit the trade of items.
 * Prohibit religious or symbolic objects, practices, or meetings.
+
+Note: A temporary inalienable right to any authority only lasts during the war shield granted by the end of the war. Accurate as of 6/30, this value is 12 hours.
 
 #### Search and seizure
 
@@ -220,7 +230,7 @@ An authority can only lawfully detain a person for up to 60 minutes if a bail is
 
 An authority can lawfully use lethal force to order the forced compliance of a population.
 
-### Article XVI: Coups and Seizure of Power&#x20;
+### Article XVII: Coups and Seizure of Power&#x20;
 
 ...
 
