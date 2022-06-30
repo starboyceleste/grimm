@@ -6,12 +6,19 @@ War on Grimm is designed to be available as a tool to promote and progress rolep
 
 This document should be read carefully and understood by all players looking to engage in combat, but beyond them, into figures that have yet to be or cannot be outlined, players should carefully consider their actions and whether they promote a positive competitive environment or are the beginnings of the toxic derailment of another player's experience. This is not to say that every combative action is destructive, but that in-character roleplay and out-of-character communication are two incredibly effective means to go about creating a positive competitive experience for everyone.
 
+#### Other important notes:
+
+* "State" and "Land" are used in this document interchangeably.
+* Accurate as of 6/30, players drop 10% of their balance upon death, regardless of cause. This is to encourage states to act as "banks" for their members and make.
+
 ### Article XII: Denouncement
 
-The following actions must be taken before any conflict can be initiated by either side:
+The following actions to publicly denounce a state must be taken before any conflict can be initiated by either side:
 
 * The defending land should be declared an enemy in the `/lands relations` menu.
 * A public denouncement of the defending land should be made in the `#events` chat channel, including a case for war and an explicit mention of the defending land's leader.
+
+At this point, the only valid combat is to deny intruders in one's own land.&#x20;
 
 ### Article XIII: Casus Belli and Types of War
 
@@ -25,21 +32,25 @@ War declaration tribute can be any amount.
 
 A holy war can be declared on a land when the attacker and the defender are of different religious belief.
 
-War declaration cannot have a tribute.
+War declaration tribute can be any amount.&#x20;
 
 {% tabs %}
 {% tab title="Win" %}
 In the case of an attacker's win in a holy war by domination:
 
-The attacker gains the inalienable right to the authoritative imposing of sanctions for the defending population's beliefs and religious practices, including demolition, displacement, or replacement of religious structures, symbols, items, and practices.
+The attacker gains a temporary inalienable right to the authoritative imposing of sanctions for the defending population's beliefs and religious practices, including demolition, displacement, or replacement of religious structures, symbols, items, and practices.
 {% endtab %}
 
 {% tab title="Win by Tribute" %}
 In the case of an attacker's win in a holy war by surrender:
+
+The attacker gains the tribute provided by surrender.
 {% endtab %}
 
 {% tab title="Loss" %}
-Defender's inalienable right to exercise and practice their religious belief.
+In the case of a defender's win in a holy war:
+
+The defender retains a temporary inalienable right to exercise and practice their religious belief.
 {% endtab %}
 {% endtabs %}
 
@@ -50,8 +61,16 @@ A territorial war can be declared on a land that borders or is in close proximit
 War declaration cannot have a tribute.
 
 {% tabs %}
-{% tab title="Winning Outcome" %}
-Attacker's inalienable right to the authoritative evacuation and displacement of all populations and territories bordering their land.
+{% tab title="Win" %}
+In the case of an attacker's win in a territorial expansion war:
+
+The attacker gains a temporary inalienable right to the authoritative evacuation and displacement of all populations and territories bordering their land.
+{% endtab %}
+
+{% tab title="Loss" %}
+In the case of a defender's win in a territorial expansion war:
+
+The defender retains a temporary inalienable right to retain their original territory.&#x20;
 {% endtab %}
 {% endtabs %}
 
@@ -62,12 +81,20 @@ A retribution war can be declared on a land that has failed to fulfill a documen
 War declaration tribute can be any amount.
 
 {% tabs %}
-{% tab title="Winning Outcome" %}
-Attacker's inalienable right to exercise any documented consequences of the original agreement or the seizure of the physical equivalent value of the original obligation.
+{% tab title="Win" %}
+In the case of an attacker's win in a retribution war:
+
+The attacker gains a total inalienable right to exercise any documented consequences of the original agreement or the seizure of the physical equivalent value of the original obligation. &#x20;
 {% endtab %}
 
-{% tab title="Losing Outcome" %}
-Defender's inalienable right to exercise and practice their religious belief.
+{% tab title="Untitled" %}
+
+{% endtab %}
+
+{% tab title="Loss" %}
+In the case of a defender's win in a retribution war:
+
+The defender gains a total inalienable right to nullify the original terms and obligations.
 {% endtab %}
 {% endtabs %}
 
