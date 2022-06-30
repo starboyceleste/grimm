@@ -1,6 +1,12 @@
 # Chapter 4 - Crimes of Engagement
 
-### Article XII: Denouncement in Advance
+### Preface into Chapter 4-5:
+
+War on Grimm is designed to be available as a tool to promote and progress roleplay, resolve disputes between players, and add an element of risk and grit to an otherwise peaceful gameplay loop. In many ways though, this fails. This document is imperfect. To fill in the fundamental flaws that would otherwise be impractical to outline here, war should be conducted in a way that is based in roleplay. This is better for the community, personal relations between players, and the war experience itself.
+
+This document should be read carefully and understood by all players looking to engage in combat, but beyond them, into figures that have yet to be or cannot be outlined, players should carefully consider their actions and whether they promote a positive competitive environment or are the beginnings of the toxic derailment of another player's experience. This is not to say that every combative action is destructive, but that in-character roleplay and out-of-character communication are two incredibly effective means to go about creating a positive competitive experience for everyone.
+
+### Article XII: Denouncement
 
 The following actions must be taken before any conflict can be initiated by either side:
 
@@ -100,6 +106,10 @@ Attacker's inalienable right to the authoritative control, conversion, and sanct
 Defender's inalienable right to exercise and practice their religious belief.
 {% endtab %}
 {% endtabs %}
+
+### Article XIV: No Man's Land
+
+The killing-on-sight of state enemies is permitted in the wilderness during war preparation periods.
 
 ### Article XIV: Executive Authority
 
