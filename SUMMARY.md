@@ -40,3 +40,6 @@
 * [Brightcrow](brewing/brightcrow.md)
 * [Dawning Brew](brewing/dawning-brew.md)
 * [Mt. Moon](brewing/mt.-moon.md)
+* [Golden Eden](brewing/golden-eden.md)
+* [Occa Nectar](brewing/occa-nectar.md)
+* [Valley Tonic](brewing/valley-tonic.md)
